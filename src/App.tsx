@@ -1,9 +1,7 @@
+import LadingPage from "./pages/LadingPage";
+
 const App = () => {
-  return (
-    <>
-      <p>Olá mundo!</p>
-    </>
-  );
+  return <LadingPage />;
 };
 
 export default App;
