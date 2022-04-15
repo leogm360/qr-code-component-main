@@ -25,3 +25,6 @@ dist-ssr
 
 #Temporary
 *.md
+
+#Tests Coverage
+coverage

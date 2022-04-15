@@ -33,7 +33,7 @@ const QRCodeCard = () => {
 
           <Text as="p" fontSize="md" p="0 1rem">
             Scan the QR code to visit Frontend Mentor and take your coding
-            skills to the nesxt level
+            skills to the next level
           </Text>
         </VStack>
       </Box>
